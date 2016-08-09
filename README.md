@@ -1,5 +1,5 @@
-# UNNotificationCenter-Bolts
-Bolts wrapper for UNNotificationCenter
+# UNUserNotificationCenter-Bolts
+Bolts wrapper for UNUserNotificationCenter
 
 ```objc
 #import <UserNotifications/UserNotifications.h>
