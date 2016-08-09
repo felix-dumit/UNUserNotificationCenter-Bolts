@@ -1,5 +1,10 @@
 # UNUserNotificationCenter-Bolts
+[![Version](https://img.shields.io/cocoapods/v/UNUserNotificationCenter+Bolts.svg?style=flat)](http://cocoadocs.org/docsets/UNUserNotificationCenter+Bolts)
+[![License](https://img.shields.io/cocoapods/l/UNUserNotificationCenter+Bolts.svg?style=flat)](http://cocoadocs.org/docsets/UNUserNotificationCenter+Bolts)
+[![Platform](https://img.shields.io/cocoapods/p/UNUserNotificationCenter+Bolts.svg?style=flat)](http://cocoadocs.org/docsets/UNUserNotificationCenter+Bolts)
+
 Bolts wrapper for UNUserNotificationCenter
+
 
 ```objc
 #import <UserNotifications/UserNotifications.h>
