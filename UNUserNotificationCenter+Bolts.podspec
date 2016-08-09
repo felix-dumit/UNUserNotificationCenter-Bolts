@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.name = "UNUserNotificationCenter+Bolts"
   s.summary = "Bolts wrapper for UNUserNotificationCenter"
-  s.version = "0.1.1"
+  s.version = "0.1.2"
   s.license = { :type => "MIT", :file => "LICENSE" }
 
   s.author = { "Felix Dumit" => "felix.dumit@gmail.com" }
