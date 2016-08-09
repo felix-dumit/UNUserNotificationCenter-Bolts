@@ -15,11 +15,11 @@
 
 -(BFTask <UNNotificationSettings* > *)getNotificationSettings;
 
--(BFTask<NSSet<UNNotificationCategory *> *> *)getNotificationCategories;
+-(BFTask <NSSet<UNNotificationCategory *> *> *)getNotificationCategories;
 
--(BFTask<NSArray<UNNotificationRequest *> *> *)getPendingNotificationRequests;
+-(BFTask <NSArray<UNNotificationRequest *> *> *)getPendingNotificationRequests;
 
--(BFTask<NSArray<UNNotification *> *> *)getDeliveredNotifications;
+-(BFTask <NSArray<UNNotification *> *> *)getDeliveredNotifications;
 
 -(BFTask <NSNumber *> *)requestAuthoriationWithOptions:(UNAuthorizationOptions)options;
 
